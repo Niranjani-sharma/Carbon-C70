@@ -1,0 +1,34 @@
+.transaction_parent_container{
+  /* background-color: #F5F6FA; */
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.transaction_container{
+  width: 1280px;
+  padding: 25px;
+  /* margin: 0 auto; */
+  margin-right: 0;
+  background-color: #FBFFFE;
+}
+.transaction_container2{
+  display: flex;
+  background-color: #F2FFFC;
+  /* max-width: 150px; */
+  flex-direction: column;
+  gap: 30px;
+  /* height: 100rem; */
+  /* justify-content: center; */
+  align-items: center;
+  height: 100vh;
+  padding: 40px;
+  /* margin-right: 20px; */
+}
+#transaction_form_heading{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 44px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}

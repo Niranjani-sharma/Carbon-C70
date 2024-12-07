@@ -1,0 +1,237 @@
+
+
+.education_centre_parent_container{
+  /* background-color: #F5F6FA; */
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.education_centre_container{
+  width: 1280px;
+  padding: 25px;
+  /* margin: 0 auto; */
+  margin-right: 0;
+  background-color: #FBFFFE;
+}
+.education_centre_container2{
+  display: flex;
+  background-color: #F2FFFC;
+  /* max-width: 150px; */
+  flex-direction: column;
+  gap: 30px;
+  /* height: 100rem; */
+  /* justify-content: center; */
+  align-items: center;
+  padding: 40px;
+}
+.education_centre_span002{
+  color: #BABABA;
+  text-align: center;
+  font-family: "Inter",sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.education_centre_span001{
+  color: #000;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 52px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+#education_centre_form_heading{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 44px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.education_centre_main_div{
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 18px rgba(132, 132, 132, 0.25);
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  max-width: 1200px;
+  padding: 30px 40px;
+}
+.education_centre_random_main_div2{
+  /* background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 18px rgba(132, 132, 132, 0.25); */
+  display: flex;
+  gap: 45px;
+  max-width: 1200px;
+  padding: 30px 40px;
+}
+.education_centre_maindiv_heading{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.education_centre_card1,.education_centre_card2,.education_centre_card4,.education_centre_card5{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 19px;
+  padding: 22px;
+  max-width: 330px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);
+}
+.education_centre_card5_random{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 19px;
+  padding: 22px;
+  width: 330px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);
+}
+.education_centre_card_heading1,.education_centre_card_heading2,.education_centre_card_heading3,.education_centre_card_heading4,.education_centre_card_heading5,.education_centre_card_heading6{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.education_centre_card1_content1,.education_centre_card4_content4,.education_centre_card5_content5,.education_centre_card6_content6,.education_centre_card09_content09{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 6px;
+}
+.education_centre_card01_content01{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+.education_centre_span1,.education_centre_span9,.education_centre_span13,.education_centre_span17,.education_centre_span09,.education_centre_span07,.education_centre_span20{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+max-width: 290px;
+}
+.education_centre_span2,.education_centre_span11,.education_centre_span14,.education_centre_span18,.education_centre_span08,.education_centre_span06,.education_centre_span21{
+  color: #A4B4B0;
+font-family: "Inter",sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+max-width: 290px;
+height: 40px;
+}
+.education_centre_subdiv12{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* gap: 25px; */
+}
+.education_centre_disease{
+  color: #606060;
+  font-family: "Inter",sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.education_centre_create_div2{
+  border-radius: 5px;
+  background: #2370FC;
+  /* position: relative; */
+  height: 12px;
+  flex-shrink: 0;
+  width: 50%;
+}
+.education_centre_create_div1{
+    /* position: absolute; */
+    height: 12px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background-color: #D9D9D9;
+    width: 10rem;
+}
+.education_centre_class_end{
+  color: #7A7878;
+font-family: "Inter",sans-serif;
+font-size: 11px;
+font-style: normal;
+font-weight: 500;
+line-height: 17px; 
+}
+.education_centre_card_container3{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.education_centre_random_div1,.education_centre_random_div2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.education_centre_card6 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  /* overflow: hidden; */
+
+
+  /* border-radius: 20px;
+  border: 1px #CFCFCF;
+  padding: 22px;
+  max-width: 330px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25); */
+}
+
+.education_centre_card6 img {
+  border-radius: 10px 10px 0 0; /* Add rounded corners to the top of the image */
+}
+
+.education_centre_card6_content6 {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 4px; /* Reduced from 6px */
+  /* padding: 0 10px; Add some horizontal padding */
+
+}
+
+.education_centre_treatmentPlanner_main_button {
+  border-radius: 10px;
+  background-color: #2CC295;
+  padding: 10px 20px; /* Reduced padding */
+  max-width: fit-content;
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-size: 16px; /* Reduced from 20px */
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  align-self: flex-start; /* Align button to the left */
+  /* Match the horizontal padding of the content */
+}
+
+.education_centre_random_div1 {
+  display: flex;
+  justify-content: space-between; /* Changed from space-evenly to space-between */
+  align-items: flex-start; /* Changed from center to flex-start */
+  gap: 20px; /* Add gap between cards */
+}
+
+

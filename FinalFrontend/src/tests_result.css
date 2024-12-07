@@ -1,0 +1,278 @@
+.tests_reslt_main_div{
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 18px rgba(132, 132, 132, 0.25);
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  max-width: 1200px;
+  padding: 30px 40px;
+}
+.tests_reslt_random44{
+  display: flex;
+  gap: 35px;
+  max-width: 1200px;
+}
+.tests_reslt_parent_container{
+  /* background-color: #F5F6FA; */
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+/* .tests_reslt_user_bargraph3{
+  text-align: start;
+} */
+#tests_reslt_form_heading{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 44px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.tests_reslt_container{
+  width: 1280px;
+  padding: 25px;
+  /* margin: 0 auto; */
+  /* margin-right: 0; */
+  background-color: #FBFFFE;
+}
+.tests_reslt_container2{
+  display: flex;
+  background-color: #F2FFFC;
+  /* max-width: 150px; */
+  flex-direction: column;
+  /* height: 100%; */
+  gap: 30px;
+  /* height: 100rem; */
+  /* justify-content: center; */
+  align-items: center;
+  padding: 40px;
+}
+.tests_reslt_card4{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  /* border-radius: 19px;
+  padding: 22px;
+  max-width: 330px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);  */
+}
+#tests_reslt_card_heading4{
+  color: #000;
+  font-family: "Inter",sans-serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.tests_reslt_span12{
+  color: #B1B1B1;
+  font-family: "Inter",sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.tests_reslt_card5{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 20px;
+border: 1px solid #CFCFCF;
+background-color: #FFF;
+padding: 22px;
+  /* border-radius: 19px;
+  padding: 22px;
+  max-width: 330px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25); */
+}
+.tests_reslt_card_heading5{
+  color: #021A1A;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.tests_reslt_span001{
+  color: #000;
+  text-align: center;
+  font-family: "Inter",sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.tests_reslt_card01_content01{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+.tests_reslt_span002{
+  color: #595858;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.tests_reslt_random_main_div2{
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3,1fr);
+  grid-template-rows: repeat(1,1fr);
+}
+.tests_reslt_randomest_div{
+  display: flex;
+  gap: 10px;
+  justify-content: end;
+}
+.tests_reslt_randomest_div span{
+  /* color: #CED2D1;
+text-align: right;
+font-family: "Inter",sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal; */
+color: #FE4A4A;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.tests_reslt_duplicate_main_div{
+  background-color: #17876E;
+  border-radius: 20px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  max-width: 1200px;
+  box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);
+
+}
+#tests_reslt_random_span1{
+  color: #FFF;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+#tests_reslt_random_span2{
+  color: #DBEBE8;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.tests_reslt_treatmentPlanner_main_button {
+  border-radius: 4px;
+  padding: 10px 15px;
+  border: 1px solid #AACBC4;
+  background-color: #F1F7F7;
+  box-shadow: 0px 4px 4px 0px rgba(170, 203, 196, 0.25);
+}
+.tests_reslt_treatmentPlanner_main_button a {
+  color: #182643;
+  text-align: center;
+  font-family: "Inter",sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration: none;
+}
+.tests_reslt_span7{
+  color: #B1B1B1;
+  font-family: "Inter",sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.tests_reslt_card3{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 19px;
+  padding: 15px;
+  height: 500px;
+  width: 450px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);
+}
+#tests_reslt_card_heading3{
+  color: #000;
+  font-family: "Inter",sans-serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  /* line-height: normal; */
+}
+.tests_reslt_random99{
+  color: #FFF;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.tests_reslt_treatmentPlanner_main_button {
+  border-radius: 4px;
+  padding: 10px 15px;
+  border: 1px solid #AACBC4;
+  background-color: #F1F7F7;
+  box-shadow: 0px 4px 4px 0px rgba(170, 203, 196, 0.25);
+}
+.tests_reslt_treatmentPlanner_main_button a {
+  color: #182643;
+  text-align: center;
+  font-family: "Inter",sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration: none;
+}
+.tests_reslt_random44{
+display: flex;
+justify-content: space-around;
+max-width: 1280px;
+/* grid-template-columns: repeat(2,1fr);
+grid-template-rows: repeat(1,1fr);
+gap: 20px; */
+}
+.tests_reslt_random55{
+  background-color: #17876E;
+  border-radius: 20px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 800px;
+  box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);
+}
+#tests_reslt_random99{
+  color: #FFF;
+  text-align: center;
+  font-family: "Inter",sans-serif;
+  padding: 22px;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}

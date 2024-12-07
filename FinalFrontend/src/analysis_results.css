@@ -1,0 +1,244 @@
+.analysis_results_parent_container{
+  /* background-color: #F5F6FA; */
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.analysis_results_container{
+  width: 1280px;
+  padding: 25px;
+  /* margin: 0 auto; */
+  margin-right: 0;
+  background-color: #FBFFFE;
+}
+.analysis_results_card1_header{
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.analysis_results_container2{
+  display: flex;
+  background-color: #F2FFFC;
+  /* max-width: 150px; */
+  flex-direction: column;
+  gap: 30px;
+  /* height: 100rem; */
+  /* justify-content: center; */
+  align-items: center;
+  padding: 40px;
+}
+.analysis_results_span002{
+  color: #BABABA;
+  text-align: center;
+  font-family: "Inter",sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.analysis_results_span001{
+  color: #000;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 52px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+#analysis_results_form_heading{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 44px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.analysis_results_main_div{
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 18px rgba(132, 132, 132, 0.25);
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  max-width: 1200px;
+  padding: 30px 40px;
+}
+.analysis_results_main_div2{
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.analysis_results_random_main_div2{
+  /* background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 18px rgba(132, 132, 132, 0.25); */
+  display: flex;
+  gap: 45px;
+  max-width: 1200px;
+  padding: 30px 40px;
+}
+.analysis_results_maindiv_heading{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.analysis_results_maindiv_para{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 17px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.analysis_results_card1,.analysis_results_card2,.analysis_results_card4,.analysis_results_card5{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 19px;
+  padding: 22px;
+  max-width: 330px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);
+}
+.analysis_results_card5_random{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 19px;
+  padding: 22px;
+  width: 330px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);
+}
+.analysis_results_card_heading1,.analysis_results_card_heading2,.analysis_results_card_heading3,.analysis_results_card_heading4,.analysis_results_card_heading5,#analysis_results_card_heading6{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.analysis_results_card1_content1,.analysis_results_card4_content4,.analysis_results_card5_content5,.analysis_results_card6_content6,.analysis_results_card09_content09{
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+}
+.analysis_results_card01_content01{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+.analysis_results_span1,.analysis_results_span9,.analysis_results_span13,.analysis_results_span17,.analysis_results_span09,.analysis_results_span07{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.analysis_results_span20{
+  color: #000;
+  font-family: "Inter",sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.analysis_results_span2,.analysis_results_span11,.analysis_results_span14,.analysis_results_span18,.analysis_results_span08,.analysis_results_span06,.analysis_results_span21{
+  color: #BABABA;
+font-family: "Inter",sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.analysis_results_subdiv12{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* gap: 25px; */
+}
+.analysis_results_disease{
+  color: #606060;
+  font-family: "Inter",sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.analysis_results_create_div2{
+  border-radius: 5px;
+  background: #2370FC;
+  /* position: relative; */
+  height: 12px;
+  flex-shrink: 0;
+  width: 50%;
+}
+.analysis_results_create_div1{
+    /* position: absolute; */
+    height: 12px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background-color: #D9D9D9;
+    width: 10rem;
+}
+#analysis_results_random69{
+  color: #868686;
+font-family: "Inter",sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; /* 140% */
+}
+.analysis_results_class_end{
+  color: #7A7878;
+font-family: "Inter",sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: 17px; 
+}
+.analysis_results_card_container3{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.analysis_results_random_div1,.analysis_results_random_div2{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.analysis_results_card6{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 20px;
+  border: 1px #CFCFCF;
+  padding: 30px;
+  max-width: 330px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);
+}
+.analysis_results_treatmentPlanner_main_button {
+  border-radius: 10px;
+  background-color: #2CC295;
+  padding: 10px 15px;
+  max-width: fit-content;
+}
+.analysis_results_treatmentPlanner_main_button a {
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-decoration: none;
+}
+.analysis_results_treatmentPlanner_main_button:hover {
+  background-color: #034d09;
+}

@@ -1,0 +1,180 @@
+.analysis_centre_main_div{
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 0px 4px 18px rgba(132, 132, 132, 0.25);
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  max-width: 1200px;
+  padding: 30px 40px;
+}
+.analysis_centre_parent_container{
+
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+#analysis_centre_form_heading{
+  color: #000;
+font-family: "Inter",sans-serif;
+font-size: 44px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.analysis_centre_container{
+  width: 1200px;
+  padding: 25px;
+  /* margin: 0 auto; */
+  /* margin-right: 0; */
+  background-color: #FBFFFE;
+}
+.analysis_centre_container2{
+  display: flex;
+  background-color: #F2FFFC;
+  /* max-width: 150px; */
+  flex-direction: column;
+  gap: 30px;
+  /* height: 100rem; */
+  /* justify-content: center; */
+  align-items: center;
+  padding: 40px;
+}
+.analysis_centre_card4{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  /* border-radius: 19px;
+  padding: 22px;
+  max-width: 330px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);  */
+}
+#analysis_centre_card_heading4{
+  color: #000;
+  font-family: "Inter",sans-serif;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.analysis_centre_span12{
+  color: #B1B1B1;
+  font-family: "Inter",sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.analysis_centre_card5{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-radius: 20px;
+border: 1px solid #CFCFCF;
+background-color: #FFF;
+padding: 22px;
+  /* border-radius: 19px;
+  padding: 22px;
+  max-width: 330px;
+background-color: #FFF;
+box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25); */
+}
+#analysis_centre_card_heading5{
+  color: #021A1A;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.analysis_centre_span001{
+  color: #000;
+  text-align: center;
+  font-family: "Inter",sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.analysis_centre_card01_content01{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+}
+.analysis_centre_span002{
+  color: #595858;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.analysis_centre_random_main_div2{
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: repeat(1,1fr);
+}
+.analysis_centre_randomest_div{
+  display: flex;
+  justify-content: end;
+}
+.analysis_centre_randomest_div span{
+  color: #CED2D1;
+text-align: right;
+font-family: "Inter",sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.analysis_centre_duplicate_main_div{
+  background-color: #17876E;
+  border-radius: 20px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  max-width: 1200px;
+  box-shadow: 0px 4px 18px 0px rgba(132, 132, 132, 0.25);
+
+}
+#analysis_centre_random_span1{
+  color: #FFF;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 32px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+#analysis_centre_random_span2{
+  color: #DBEBE8;
+text-align: center;
+font-family: "Inter",sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.analysis_centre_treatmentPlanner_main_button {
+  border-radius: 4px;
+  padding: 10px 15px;
+  border: 1px solid #AACBC4;
+  background-color: #F1F7F7;
+  box-shadow: 0px 4px 4px 0px rgba(170, 203, 196, 0.25);
+}
+.analysis_centre_treatmentPlanner_main_button a {
+  color: #182643;
+  text-align: center;
+  font-family: "Inter",sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration: none;
+}
